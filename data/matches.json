@@ -367,12 +367,12 @@
     "stadium_city": "Miami Gardens, FL",
     "stadium_country": "USA",
     "kickoff_utc": "2026-06-15T22:00:00.000Z",
-    "home_score": null,
-    "away_score": null,
+    "home_score": 1,
+    "away_score": 1,
     "home_pen": null,
     "away_pen": null,
-    "status": "scheduled",
-    "phase": "PRE"
+    "status": "live",
+    "phase": "2H"
   },
   {
     "id": 37,

@@ -443,11 +443,11 @@
     "stadium_country": "USA",
     "kickoff_utc": "2026-06-16T22:00:00.000Z",
     "home_score": 1,
-    "away_score": 2,
+    "away_score": 4,
     "home_pen": null,
     "away_pen": null,
-    "status": "live",
-    "phase": "HT"
+    "status": "completed",
+    "phase": "FT"
   },
   {
     "id": 58,

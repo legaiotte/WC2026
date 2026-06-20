@@ -817,12 +817,12 @@
     "stadium_city": "Houston, TX",
     "stadium_country": "USA",
     "kickoff_utc": "2026-06-20T17:00:00.000Z",
-    "home_score": 2,
-    "away_score": 0,
+    "home_score": 5,
+    "away_score": 1,
     "home_pen": null,
     "away_pen": null,
-    "status": "live",
-    "phase": "1H"
+    "status": "completed",
+    "phase": "FT"
   },
   {
     "id": 29,

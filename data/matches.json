@@ -767,12 +767,12 @@
     "stadium_city": "Philadelphia, PA",
     "stadium_country": "USA",
     "kickoff_utc": "2026-06-20T00:30:00.000Z",
-    "home_score": null,
-    "away_score": null,
+    "home_score": 3,
+    "away_score": 0,
     "home_pen": null,
     "away_pen": null,
-    "status": "scheduled",
-    "phase": "PRE"
+    "status": "completed",
+    "phase": "FT"
   },
   {
     "id": 21,
@@ -792,12 +792,12 @@
     "stadium_city": "Santa Clara, CA",
     "stadium_country": "USA",
     "kickoff_utc": "2026-06-20T03:00:00.000Z",
-    "home_score": null,
-    "away_score": null,
+    "home_score": 0,
+    "away_score": 1,
     "home_pen": null,
     "away_pen": null,
-    "status": "scheduled",
-    "phase": "PRE"
+    "status": "completed",
+    "phase": "FT"
   },
   {
     "id": 31,

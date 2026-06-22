@@ -992,12 +992,12 @@
     "stadium_city": "Vancouver, BC",
     "stadium_country": "Canada",
     "kickoff_utc": "2026-06-22T01:00:00.000Z",
-    "home_score": null,
-    "away_score": null,
+    "home_score": 1,
+    "away_score": 3,
     "home_pen": null,
     "away_pen": null,
-    "status": "scheduled",
-    "phase": "PRE"
+    "status": "completed",
+    "phase": "FT"
   },
   {
     "id": 56,

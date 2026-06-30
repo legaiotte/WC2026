@@ -1872,7 +1872,7 @@
     "home_pen": 3,
     "away_pen": 4,
     "status": "completed",
-    "phase": "FT_PEN"
+    "phase": "FT"
   },
   {
     "id": 101,
@@ -1897,7 +1897,7 @@
     "home_pen": 2,
     "away_pen": 3,
     "status": "completed",
-    "phase": "FT_PEN"
+    "phase": "FT"
   },
   {
     "id": 79,
@@ -1942,12 +1942,12 @@
     "stadium_city": "East Rutherford, NJ",
     "stadium_country": "USA",
     "kickoff_utc": "2026-06-30T21:00:00.000Z",
-    "home_score": null,
-    "away_score": null,
+    "home_score": 2,
+    "away_score": 0,
     "home_pen": null,
     "away_pen": null,
-    "status": "scheduled",
-    "phase": "PRE"
+    "status": "live",
+    "phase": "2H"
   },
   {
     "id": 100,

@@ -2167,12 +2167,12 @@
     "stadium_city": "Miami Gardens, FL",
     "stadium_country": "USA",
     "kickoff_utc": "2026-07-03T22:00:00.000Z",
-    "home_score": 1,
-    "away_score": 0,
+    "home_score": 3,
+    "away_score": 2,
     "home_pen": null,
     "away_pen": null,
-    "status": "live",
-    "phase": "2H"
+    "status": "completed",
+    "phase": "FT"
   },
   {
     "id": 91,
@@ -2192,12 +2192,12 @@
     "stadium_city": "Kansas City, MO",
     "stadium_country": "USA",
     "kickoff_utc": "2026-07-04T01:30:00.000Z",
-    "home_score": null,
-    "away_score": null,
+    "home_score": 1,
+    "away_score": 0,
     "home_pen": null,
     "away_pen": null,
-    "status": "scheduled",
-    "phase": "PRE"
+    "status": "completed",
+    "phase": "FT"
   },
   {
     "id": 94,
@@ -2354,9 +2354,9 @@
     "match_number": 95,
     "round": "R16",
     "group_name": null,
-    "home_team_id": null,
-    "home_team": null,
-    "home_team_code": null,
+    "home_team_id": 37,
+    "home_team": "Argentina",
+    "home_team_code": "ARG",
     "home_team_flag": null,
     "away_team_id": 26,
     "away_team": "Egypt",

@@ -2246,8 +2246,8 @@
     "away_score": 1,
     "home_pen": null,
     "away_pen": null,
-    "status": "live",
-    "phase": "2H"
+    "status": "completed",
+    "phase": "FT"
   },
   {
     "id": 74,
@@ -2404,9 +2404,9 @@
     "match_number": 97,
     "round": "QF",
     "group_name": null,
-    "home_team_id": null,
-    "home_team": null,
-    "home_team_code": null,
+    "home_team_id": 33,
+    "home_team": "France",
+    "home_team_code": "FRA",
     "home_team_flag": null,
     "away_team_id": 12,
     "away_team": "Morocco",

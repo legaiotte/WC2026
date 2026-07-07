@@ -2367,12 +2367,12 @@
     "stadium_city": "Atlanta, GA",
     "stadium_country": "USA",
     "kickoff_utc": "2026-07-07T16:00:00.000Z",
-    "home_score": 0,
-    "away_score": 1,
+    "home_score": 3,
+    "away_score": 2,
     "home_pen": null,
     "away_pen": null,
-    "status": "live",
-    "phase": "2H"
+    "status": "completed",
+    "phase": "FT"
   },
   {
     "id": 96,
@@ -2392,12 +2392,12 @@
     "stadium_city": "Vancouver, BC",
     "stadium_country": "Canada",
     "kickoff_utc": "2026-07-07T20:00:00.000Z",
-    "home_score": null,
-    "away_score": null,
+    "home_score": 0,
+    "away_score": 0,
     "home_pen": null,
     "away_pen": null,
-    "status": "scheduled",
-    "phase": "PRE"
+    "status": "live",
+    "phase": "1H"
   },
   {
     "id": 92,
@@ -2479,9 +2479,9 @@
     "match_number": 100,
     "round": "QF",
     "group_name": null,
-    "home_team_id": null,
-    "home_team": null,
-    "home_team_code": null,
+    "home_team_id": 37,
+    "home_team": "Argentina",
+    "home_team_code": "ARG",
     "home_team_flag": null,
     "away_team_id": null,
     "away_team": null,
